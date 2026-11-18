@@ -1,0 +1,23 @@
+{
+  "name": "forest-monitoring",
+  "label": "Forest Monitoring",
+  "type": "widget",
+  "description": "Forest monitoring dashboard.",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "SpaceEco",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": false,
+    "hasStyle": false
+  },
+  "dataSource": true,
+  "supportDataSource": true,
+  "widgetProps": [
+    "useDataSources"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 1080
+  }
+}
